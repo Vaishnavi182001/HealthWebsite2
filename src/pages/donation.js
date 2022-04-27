@@ -5,13 +5,13 @@ const Donation = () => {
   return (
     <Layout>
       <div className="container py-5">
-        <h2 className="pb-2  text-center">Be An Organ Donar</h2>
-        <h3 className="pb-2  text-center">
+        <h2 className="pb-2  text-center text-dark">Be An Organ Donar</h2>
+        <h3 className="pb-2  text-center text-underline">
           By pledging your organs you can save upto 8 lives
         </h3>
         <div class="row mb-2">
           <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-            <div class="col p-4 d-flex flex-column position-static">
+            <div class="col p-4 d-flex flex-column position-static bg-info">
               {/* <strong class="d-inline-block mb-2 text-primary">World</strong> */}
               {/* <h3 class="mb-0">Risks </h3> */}
               {/* <div class="mb-1 text-muted">April 04</div> */}
@@ -60,46 +60,61 @@ const Donation = () => {
               <div class="card-body">
                 <h4 class="card-title">Organ Donation Awarness</h4>
                 <p class="card-text">
-                  Yes , even you can help us spread awarness on organ donation!
-                  Organize a short awarness session given by us at your office ,
-                  college ,school , club or anywhere else . Help us get more of
-                  your friends ,colleagues , relatives and others know more
-                  about organ donation.
+                  <b>
+                    {" "}
+                    Yes , even you can help us spread awarness on organ
+                    donation! Organize a short awarness session given by us at
+                    your office , college ,school , club or anywhere else . Help
+                    us get more of your friends ,colleagues , relatives and
+                    others know more organ transplantation is the most preferred
+                    treatment. The need for the organ transplantation is higher
+                    than the availability. For the transplantation program to be
+                    successful, awareness regarding organ donation is needed
+                    about organ donation. -
+                  </b>
                 </p>
               </div>
             </div>
           </div>
           {/* </div> */}
           <div className="col-lg-4">
-            <div class="card text-white bg-info mb-3">
+            <div class="card text-black  mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 <h4 class="card-title">Body Donation Directory</h4>
                 <p class="card-text">
-                  Body Donation,also called Deh Dan,is the donation of the whole
-                  body after death for the purpose of medical research and
-                  education. Body donation is the important for helping medical
-                  students and researches to understand the human body,and for
-                  the advancement of science
+                  <b>
+                    Body donation is governed by the Anatomy Act, 1949 - “An Act
+                    to provide for the supply of unclaimed bodies of deceased
+                    persons (or donated bodies or any part thereof of deceased
+                    persons) to hospitals and medical and teaching institutions
+                    for the purpose of anatomical examination and dissection and
+                    other similar purposes.The donation of the whole body after
+                    death for the purpose of medical research and education.
+                    Body donation is the important for helping medical students
+                    and researches to understand the human body.
+                  </b>
                 </p>
               </div>
             </div>
           </div>
           <div className="col-lg-4">
-            <div class="card bg-light mb-3">
+            <div class="card bg-warning mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 <h4 class="card-title">Blood Donation</h4>
                 <p class="card-text">
-                  The blood donation process from the time you arrive until the
-                  time you leave takes about an hour. The donation itself is
-                  only about 8-10 minutes on average. If you’re donating whole
-                  blood, we’ll cleanse an area on your arm and insert a brand
-                  new sterile needle for the blood draw. A whole blood donation
-                  takes about 8-10 minutes, during which you’ll be seated
-                  comfortably or lying down. When approximately a pint of whole
-                  blood has been collected, the donation is complete and a staff
-                  person will place a bandage on your arm.
+                  <b>
+                    The blood donation process from the time you arrive until
+                    the time you leave takes about an hour. The donation itself
+                    is only about 8-10 minutes on average. If you’re donating
+                    whole blood, we’ll cleanse an area on your arm and insert a
+                    brand new sterile needle for the blood draw. A whole blood
+                    donation takes about 8-10 minutes, during which you’ll be
+                    seated comfortably or lying down. When approximately a pint
+                    of whole blood has been collected, the donation is complete
+                    and a staff person will place a bandage on your arm.
+                  </b>
                 </p>
               </div>
             </div>

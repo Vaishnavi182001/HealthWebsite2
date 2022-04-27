@@ -76,9 +76,9 @@ var libraries = [
     price: "Rs 100",
     expiry: " 2 year",
   },
-  { image: "pharmacy5", name: "Alosetron", price: "Rs 200", expiry: "2 year" },
+  { image: "pharmacy5", name: "Alosetron", price: "Rs 200", expiry: "12/23" },
   //{ image: "pharmacy6", name: "Pan-D", price: "Rs 70", expiry: "1 year" },
-  { image: "pharmacy7", name: "Cotton", price: "Rs 90", expiry: "1 year" },
+  { image: "pharmacy7", name: "Cotton", price: "Rs 90", expiry: "20/22" },
   {
     image: "pharmacy8",
     name: "Sanitary Pads",

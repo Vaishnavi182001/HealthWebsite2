@@ -228,10 +228,10 @@ class HomePage extends Component {
     const { tab_progress, button_is_disabled, patient_2_next_button_disabled, user_symptom_length, current_page } = this.state;
     return (
       <React.Fragment>
-       
+
         <main id="main-content" className="card m-5 py-5">
           <div className="container padding-bottom-4">
-            <h2 className="fw-bold text-center border-bottom">Symptom Checker</h2>
+            <h1 className="fw-bold text-center border-bottom">SYMPTOM CHECKER</h1>
             <div className="grid-row padding-4">
               <div className="desktop:grid-col-2">
                 <ul className="side-menu-list padding-left-2">

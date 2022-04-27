@@ -192,7 +192,7 @@ const Surgery = () => {
 
         <div className="row">
           <div className="col-lg-4">
-            <div class="card text-center text-white bg-info mb-3">
+            <div class="card text-center text-white bg-secondary mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 {/* <h4 class="card-title">Primary card title</h4> */}
@@ -210,14 +210,13 @@ const Surgery = () => {
                 </div>
                 <h4 class="card-title">Dr. Aahana Verma</h4>
                 <p class="card-text">
-                  HOD OBSTETRICS & GYNAECOLOGY Obstetrics and Gynaecology.
-                  Apollo Hospital, Delhi
+                  HOD OBSTETRICS & GYNAECOLOGY, Apollo Hospital, Delhi.
                 </p>
               </div>
             </div>
           </div>
           <div className="col-lg-4">
-            <div class="card text-center text-white bg-secondary mb-3">
+            <div class="card text-center text-white bg-info mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 {/* <h4 class="card-title">Secondary card title</h4> */}
@@ -235,14 +234,14 @@ const Surgery = () => {
                 </div>
                 <h4 class="card-title">Dr. P K Sharma</h4>
                 <p class="card-text">
-                  SENIOR CONSULTANT CARDIOLOGY Cardiac Sciences, Interventional
-                  Cardiology.Sudha Hospital,Lucknow
+                  SENIOR CONSULTANT CARDIOLOGY, Interventional
+                  Cardiology, Apollo Hospital, Lucknow.
                 </p>
               </div>
             </div>
           </div>
           <div className="col-lg-4">
-            <div class="card text-center text-white bg-success mb-3">
+            <div class="card text-center text-white bg-secondary mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 {/* <h4 class="card-title">Success card title</h4> */}
@@ -260,8 +259,8 @@ const Surgery = () => {
                 </div>
                 <h4 class="card-title">Dr. Ajay Sinha</h4>
                 <p class="card-text">
-                  CONSULTANT INTERVENTIONAL CARDIOLOGY Cardiac Sciences,
-                  Interventional Cardiology.City Hospital, Bombay
+                  CONSULTANT INTERVENTIONAL CARDIOLOGY, Cardiac Sciences,
+                  Interventional Cardiology, City Hospital, Bombay.
                 </p>
               </div>
             </div>
@@ -269,7 +268,7 @@ const Surgery = () => {
         </div>
         <div className="row">
           <div className="col-lg-4">
-            <div class="card text-center text-white bg-info mb-3">
+            <div class="card text-center text-white bg-secondary mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 {/* <h4 class="card-title">Primary card title</h4> */}
@@ -287,14 +286,14 @@ const Surgery = () => {
                 </div>
                 <h4 class="card-title">Dr. Neha Sharma</h4>
                 <p class="card-text">
-                  ADDITIONAL DIRECTOR ANAESTHESIOLOGY Support Specialties,
-                  Anaesthesia. Maxwell Hospital, Jaipur
+                  ADDITIONAL DIRECTOR-ANAESTHESIOLOGY Support Specialties,
+                  Maxwell Hospital, Jaipur.
                 </p>
               </div>
             </div>
           </div>
           <div className="col-lg-4">
-            <div class="card text-center text-white bg-secondary mb-3">
+            <div class="card text-center text-white bg-info mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 {/* <h4 class="card-title">Secondary card title</h4> */}
@@ -310,16 +309,15 @@ const Surgery = () => {
                     alt="1"
                   />{" "}
                 </div>
-                <h4 class="card-title">Dr. C. K Prasad</h4>
+                <h4 class="card-title">Dr. Eugene D'Silva</h4>
                 <p class="card-text">
-                  SDIRECTOR OBSTETRICS & GYNAECOLOGY Obstetrics and Gynaecology.
-                  Fortis Escorts Hospital, Jaipur
+                  DIRECTOR-OBSTETRICS & GYNAECOLOGY, Fortis Hospital, Jaipur.
                 </p>
               </div>
             </div>
           </div>
           <div className="col-lg-4">
-            <div class="card text-center text-white bg-success mb-3">
+            <div class="card text-center text-white bg-secondary mb-3">
               {/* <div class="card-header">Header</div> */}
               <div class="card-body">
                 {/* <h4 class="card-title">Success card title</h4> */}
@@ -337,7 +335,7 @@ const Surgery = () => {
                 </div>
                 <h4 class="card-title">Dr. Anita Bansal</h4>
                 <p class="card-text">
-                  CONSULTANT PULMONOLOGY Pulmonology.Pink Vinayak Hospital, Pune
+                  CONSULTANT PULMONOLOGY, Lung Specialist, Pink Vinayak Hospital, Pune.
                 </p>
               </div>
             </div>
